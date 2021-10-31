@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useRef } from 'react';
 import Header from '../Header/Header';
 import { useParams } from 'react-router';
-import { useRef } from 'react/cjs/react.development';
 import Footer from '../Footer/Footer';
 const OrderPlace = () => {
 

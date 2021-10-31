@@ -11,7 +11,7 @@ const Header = () => {
         <div>
     <nav className="navbar navbar-dark navbar-expand-md">
   <div className="container">
-    <Link to="/home" className="navbar-brand text-dark font-weight-bold">
+    <Link to="/home" className="navbar-brand text-light font-weight-bold">
      Explore Bangladesh</Link>
     <button className="navbar-toggler navbar-toggler-right" data-toggle="collapse" data-target="#navbarNav">
       <span className="navbar-toggler-icon"></span>
